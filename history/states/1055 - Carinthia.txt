@@ -1,0 +1,30 @@
+state = {
+	id = 1055
+	name = "STATE_1055"
+	manpower = 1
+
+	state_category = rural
+
+	history = {
+
+		owner = AUS
+
+		buildings = {
+
+		}
+
+		victory_points = {
+			3673 3
+		}
+
+		victory_points = {
+			11612 2
+		}
+	}
+
+	provinces = {
+		6673 3673 11612 
+	}
+
+	local_supplies = 1.0
+}

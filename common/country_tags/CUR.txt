@@ -1,0 +1,1 @@
+CUR = "countries/Courland.txt"
